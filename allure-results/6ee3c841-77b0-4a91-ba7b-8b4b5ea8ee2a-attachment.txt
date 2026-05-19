@@ -1,0 +1,44 @@
+Dream name: Flying over mountains
+AI type: Good
+Dream name: Lost in maze
+AI type: Bad
+Dream name: Winning lottery
+AI type: Good
+Dream name: Being late to exam
+AI type: Bad
+Dream name: Swimming with dolphins
+AI type: Good
+Dream name: Time travel adventure
+AI type: Good
+Dream name: Monster chase
+AI type: Bad
+Dream name: Flying over mountains
+UI type: Good
+AI type: Good
+Dream name: Lost in maze
+UI type: Bad
+AI type: Bad
+Dream name: Flying over mountains
+UI type: Good
+AI type: Good
+Dream name: Winning lottery
+UI type: Good
+AI type: Good
+Dream name: Being late to exam
+UI type: Bad
+AI type: Bad
+Dream name: Lost in maze
+UI type: Bad
+AI type: Bad
+Dream name: Swimming with dolphins
+UI type: Good
+AI type: Good
+Dream name: Flying over mountains
+UI type: Good
+AI type: Good
+Dream name: Time travel adventure
+UI type: Good
+AI type: Good
+Dream name: Monster chase
+UI type: Bad
+AI type: Bad

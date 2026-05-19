@@ -128,7 +128,7 @@ npx playwright test
 Run only Chromium:
 
 ```powershell
-npx playwright test --project=chromium
+npx playwright test --project chromium
 ```
 
 Run a specific test file:
@@ -242,7 +242,7 @@ Examples of captured evidence:
 Run all Chromium tests and generate fresh screenshots:
 
 ```powershell
-npx.cmd playwright test --project=chromium
+npx playwright test --project chromium
 ```
 
 The Playwright HTML report can be opened with:

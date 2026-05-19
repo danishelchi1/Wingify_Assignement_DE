@@ -97,6 +97,8 @@ Install Playwright browsers:
 npx.cmd playwright install
 ```
 
+In GitHub Actions, the workflow installs `xvfb` and runs tests with `xvfb-run -a` to avoid WebKit display errors.
+
 ## Environment Variables
 
 The OpenAI validation test can use an API key from `.env`.
@@ -246,14 +248,14 @@ npx.cmd playwright test --project=chromium
 The Playwright HTML report can be opened with:
 
 ```powershell
-npx.cmd playwright show-report
+npx playwright show-report
 ```
 
 To generate the Allure HTML report from `allure-results/`, Java must be installed and configured. Then run:
 
 ```powershell
-npx.cmd allure generate allure-results --clean -o allure-report
-npx.cmd allure open allure-report
+npx allure generate allure-results --clean -o allure-report
+npx allure open allure-report
 ```
 
 ## Notes For Windows PowerShell
